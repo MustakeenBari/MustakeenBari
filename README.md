@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Mustakeen Bari, but you can call me Moose.
+
+I'm currently a Senior majoring in Aerospace Engineering from Dhaka, Bangladesh.
+
+Looking forward to a great semester!
 
 <!--
 **MustakeenBari/MustakeenBari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
